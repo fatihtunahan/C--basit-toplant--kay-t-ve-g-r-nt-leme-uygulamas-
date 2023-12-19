@@ -1,0 +1,12 @@
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\bin\Debug\ToplantıUygulamasi.exe.config
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\bin\Debug\ToplantıUygulamasi.exe
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\bin\Debug\ToplantıUygulamasi.pdb
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.Form1.resources
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.Properties.Resources.resources
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.csproj.GenerateResource.cache
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.exe
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.pdb
+C:\Users\fatih\OneDrive\Masaüstü\MASAÜSTÜ\Projelerim\ToplantıUygulamasi\ToplantıUygulamasi\obj\Debug\ToplantıUygulamasi.AnaEkran.resources
